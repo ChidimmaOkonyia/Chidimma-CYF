@@ -1,2 +1,2 @@
 # Chidimma-CYF
-My first repository
+Learning how to code from CYF
